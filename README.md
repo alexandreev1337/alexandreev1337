@@ -14,5 +14,6 @@
 🔎As part of my university studies, I gained experience with econometric analysis using tools like Gretl and Excel for statistical modeling and hyphothesis testing
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+width = "40" height = "40"/>
           
