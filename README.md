@@ -12,3 +12,7 @@
 📊 I have over 3 years experience in graphic design and data visualization, working with tools like Adobe Photoshop, Figma and PowerPoint to create compeling infographic and presentations
 
 🔎As part of my university studies, I gained experience with econometric analysis using tools like Gretl and Excel for statistical modeling and hyphothesis testing
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+          
