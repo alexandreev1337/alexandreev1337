@@ -20,8 +20,9 @@ width = "40" height = "40"/>
 width = "40" height = "40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"
 width = "40" height = "40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
 width = "40" height = "40"/>
+          
           
 
           
